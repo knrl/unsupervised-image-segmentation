@@ -344,5 +344,5 @@ if (__name__ == '__main__'):
 
 """
 Example usage:
-python3 src/main.py --trainInput '/home/kaan/Documents/c_yapay_zeka/project/src/demo_test_data/2092.jpg' --testInput '/home/kaan/Documents/c_yapay_zeka/project/src/demo_test_data/2092.jpg' --resultPath /home/kaan/Documents/c_yapay_zeka/project/results/demo_results/ --combine True --model mynet --nChannel 50 --lr 0.1 --maxIter 80
+python3 src/main.py --trainInput '/<path>/src/demo_test_data/2092.jpg' --testInput '/<path>/src/demo_test_data/2092.jpg' --resultPath /<path>/results/demo_results/ --combine True --model mynet --nChannel 50 --lr 0.1 --maxIter 80
 """
